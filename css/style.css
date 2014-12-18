@@ -52,6 +52,10 @@ a:focus {
     color: #176e61;
 }
 
+.eventbrite {
+    padding-top: 50px;
+}
+
 .light {
     font-weight: 400;
 }
