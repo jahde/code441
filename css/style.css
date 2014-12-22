@@ -56,6 +56,13 @@ a:focus {
     padding-top: 50px;
 }
 
+.flyer, .flyer img {
+    width: 570px;
+    height: auto;
+    text-align: center;
+    display: inline-block;
+}
+
 .light {
     font-weight: 400;
 }
